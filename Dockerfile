@@ -1,5 +1,5 @@
 FROM frolvlad/alpine-oraclejdk8:slim
-MAINTAINER Saulo Ricci "infsaulok@gmail.com"
+MAINTAINER Daniel Knöll "danielknoell@gmail.com"
 
 RUN apk add --no-cache curl bash
 
